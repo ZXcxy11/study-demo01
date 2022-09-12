@@ -6,7 +6,8 @@ public class demo01 {
         System.out.println(22222);
         System.out.println(333333);
         System.out.println(444444);
-        System.out.println("冲突，完蛋hot-fix");
+        System.out.println("冲突，完蛋master");
+        System.out.println("再次冲突master");
     }
     public int calculate(int n){
         int temp=0;
