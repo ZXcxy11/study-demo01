@@ -11,6 +11,7 @@ public class demo01 {
         System.out.println("冲突完蛋");
         System.out.println("再次冲突hot-fix");
         System.out.println("push推送到github");
+        System.out.println("pull推送到idea");
     }
     public int calculate(int n){
         int temp=0;
