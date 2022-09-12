@@ -5,6 +5,7 @@ public class demo01 {
         System.out.println(1111);
         System.out.println(22222);
         System.out.println(333333);
+        System.out.println(444444);
     }
     public int calculate(int n){
         int temp=0;
